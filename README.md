@@ -14,7 +14,7 @@ Currently, I am focused on learning C, Python, web development, and DevOps tools
 
 
 
-## Other Common Github Profile Sections
+## Bio
 👨‍💻 I'm currently working on a Waste Management Project  
 
 🧠 I'm currently learning Node.js and MongoDB  
